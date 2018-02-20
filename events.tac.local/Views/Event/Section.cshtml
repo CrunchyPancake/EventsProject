@@ -1,10 +1,12 @@
 ﻿@inherits Glass.Mapper.Sc.Web.Mvc.GlassView<events.tac.local.Models.IEventSection>
 
-<h1>Our Event</h1>
+<h1>Our Events</h1>
 
 @foreach (var item in Model.Children)
 {
     <h2>
-        @item.Name Events
+        <a href="@item.Url">
+            @item.Name Events
+        </a>
     </h2>
 }

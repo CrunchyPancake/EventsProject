@@ -3,6 +3,5 @@
 <h1>@Model.Name Events </h1>
 
 @foreach (var item in Model.Children) {
-    <p>@item.ContentHeading</p>
-    <br />
+    <p><a href="@item.Url">@item.ContentHeading</a></p>
 }

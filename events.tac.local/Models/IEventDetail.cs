@@ -6,7 +6,7 @@ using events.tac.local.Models.Base;
 
 namespace events.tac.local.Models
 {
-    public interface IEventDetail : IContentBase
+    public interface IEventDetail : IGlassBase, IContentBase
     {
 
     }
