@@ -1,0 +1,32 @@
+﻿<Project>
+  <PropertyGroup>
+    <Site Server="events.tac.local" UserName="sitecore\admin" IsRemoteSitecore="False" />
+  </PropertyGroup>
+  <File Include="/Views/TAC/Events/Layouts/Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{64CFC94C-667D-4A8A-8A31-2C85A1D7A83C}</Item>
+    <Item DatabaseName="master">{92401185-16FF-4852-BCC1-93E07CDF0A7C}</Item>
+    <Item DatabaseName="master">{8839A657-3633-4E11-B012-F3D782B75066}</Item>
+    <Item DatabaseName="master">{97A8F726-2977-4A8D-80A2-83F2F4826DC0}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Layouts\Events.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{97A8F726-2977-4A8D-80A2-83F2F4826DC0}</Item>
+  </File>
+  <File Include="Views\TAC\Events\SideContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{41AEE0B9-09EF-4C4E-A530-AF25FA3F3F65}</Item>
+  </File>
+  <File Include="Views\TAC\Events\PageContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{C3FC410F-F64D-4E60-AE6B-074E99323111}</Item>
+  </File>
+  <File Include="Views\TAC\Events\Two-Column.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{30F0D68B-0131-4C5D-A7B2-B0657B5AF822}</Item>
+  </File>
+  <File Include="Views\TAC\Events\One-Column.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{A980F90C-1F64-4EF0-B0C4-78F74436C247}</Item>
+  </File>
+  <File Include="Views\TAC\Events\HomeContent.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{1632A528-ED63-4A34-961E-3AB617C09349}</Item>
+  </File>
+  <File Include="Views\EventsList\Index.cshtml" FileTimestamp="0" FileSize="0" ServerTimestamp="0" ServerFileSize="0">
+    <Item DatabaseName="master">{FE5001CC-B5FD-4FB5-BCBF-D078DCFB4BD5}</Item>
+  </File>
+</Project>

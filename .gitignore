@@ -1,0 +1,7 @@
+*.dll
+events.tac.local/bin/
+.vs/
+events.tac.local.Tests/bin/
+events.tac.local/obj/
+packages/
+events.tac.local.Tests/obj/
