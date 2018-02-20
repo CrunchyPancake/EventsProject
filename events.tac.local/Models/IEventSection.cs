@@ -7,8 +7,8 @@ using events.tac.local.Models.Base;
 
 namespace events.tac.local.Models
 {
-    public interface IEventDetailsList : IGlassBase
+    public interface IEventSection : IGlassBase
     {
-        IEnumerable<IEventDetail> Children { get; set; }
+        IEnumerable<IEventDetailsList> Children { get; set; }
     }
 }

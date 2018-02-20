@@ -195,6 +195,7 @@
     <Compile Include="Models\EventIntro.cs" />
     <Compile Include="Models\IEventDetail.cs" />
     <Compile Include="Models\IEventDetailsList.cs" />
+    <Compile Include="Models\IEventSection.cs" />
     <Compile Include="Models\NavigationItem.cs" />
     <Compile Include="Models\NavigationMenuItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -328,6 +329,7 @@
     <Content Include="Views\Navigation\Index.cshtml" />
     <Content Include="Views\TAC\Events\FeaturedEvent.cshtml" />
     <Content Include="Views\Event\Index.cshtml" />
+    <Content Include="Views\Event\Section.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

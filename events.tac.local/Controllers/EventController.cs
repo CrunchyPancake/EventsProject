@@ -16,5 +16,10 @@ namespace events.tac.local.Controllers
         {
             return View(GetDataSourceItem<IEventDetailsList>());
         }
+
+        public ActionResult Section()
+        {
+            return View();
+        }
     }
 }
