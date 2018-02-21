@@ -14,7 +14,7 @@ namespace events.tac.local.Controllers
         override
         public ActionResult Index()
         {
-            return View(GetDataSourceItem<IEventDetailsList>());
+            return View();
         }
 
         public ActionResult Section()

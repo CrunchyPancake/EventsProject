@@ -330,6 +330,7 @@
     <Content Include="Views\TAC\Events\FeaturedEvent.cshtml" />
     <Content Include="Views\Event\Index.cshtml" />
     <Content Include="Views\Event\Section.cshtml" />
+    <Content Include="Views\TAC\Events\EventDetails.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
